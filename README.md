@@ -50,7 +50,13 @@ Part 2: Mise en oeuvre de l'injection des dépendances: Injection des dépendanc
 ![image](https://user-images.githubusercontent.com/97621443/162344013-38bedb75-0c67-4cc8-9e5e-6508ec02f250.png)
 
 
+  4/ ApplicationContext (Format en XML):
+  
 ![image](https://user-images.githubusercontent.com/97621443/162347040-5fc6a743-4c58-4b98-b817-9e7ae4b7efe7.png)
+
+  5/Le fichier pom.xml:
+  
+  
 ![image](https://user-images.githubusercontent.com/97621443/162347177-64e0ebfd-94c5-401d-9a67-e7868968930c.png)
 
 
