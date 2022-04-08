@@ -6,19 +6,41 @@
 
 Part 2: Mise en oeuvre de l'injection des dépendances: Injection des dépendances en utilisant le framework Spring et XML
 
+                  1/Structure du Projet (en Spring):
+
+                  
 
 ![image](https://user-images.githubusercontent.com/97621443/162346436-fb0c2e84-efcd-483f-814b-c2d07df1212d.png)
+
+2/ Package et les classes:
+
+                          2-1/Package DAO (Class DaoImp et Interface IDao)
 ![image](https://user-images.githubusercontent.com/97621443/162346490-7a752ddc-d046-4aad-915b-2ba6d1cd4488.png)
 ![image](https://user-images.githubusercontent.com/97621443/162346518-924a3a67-6fbf-4be9-b87f-6e8ff7099522.png)
+
+
+                          2-2/Package EXT (Class DaoImpl2 et  DaoimplVWS)
 ![image](https://user-images.githubusercontent.com/97621443/162346560-642a4c9b-2b04-4b84-ac36-92f280a115a3.png)
 ![image](https://user-images.githubusercontent.com/97621443/162346628-42552e2f-3eba-45eb-9980-b1ab4ee5ba3b.png)
+
+
+                          2-3/Package metier (Class Metierimpl et Interface IMetier)
 ![image](https://user-images.githubusercontent.com/97621443/162346692-13c82658-8a26-4fce-8a15-d35a3c1991b2.png)
 ![image](https://user-images.githubusercontent.com/97621443/162346733-b43a2220-08fa-466a-bcf3-bb725e364307.png)
 ![image](https://user-images.githubusercontent.com/97621443/162346791-01ea24b6-e39b-4016-8c22-768f296873d2.png)
+
+
+
+                          2-4/Package PRES (Class Pres2 et  Presentation)
 ![image](https://user-images.githubusercontent.com/97621443/162346830-ab9018eb-0937-42cd-9e1e-baec81a9916c.png)
 ![image](https://user-images.githubusercontent.com/97621443/162346868-07b85b2f-8443-4017-9340-c8e4ec75c6db.png)
 ![image](https://user-images.githubusercontent.com/97621443/162346926-bf6cadfa-4892-4ba2-8253-ba14f7d401c0.png)
 ![image](https://user-images.githubusercontent.com/97621443/162346971-d13f034e-4495-4970-907c-4304ad6ff30a.png)
+
+
+
+ 3/ Mise en oeuvre de l'injection des dépendances: Injection des dépendances en utilisant le framework Spring et XML et Instanciation statique (couplage fort):
+
 ![image](https://user-images.githubusercontent.com/97621443/162347040-5fc6a743-4c58-4b98-b817-9e7ae4b7efe7.png)
 ![image](https://user-images.githubusercontent.com/97621443/162347177-64e0ebfd-94c5-401d-9a67-e7868968930c.png)
 
