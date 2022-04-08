@@ -41,10 +41,6 @@ Part 2: Mise en oeuvre de l'injection des dépendances: Injection des dépendanc
 
  3/ Mise en oeuvre de l'injection des dépendances: Injection des dépendances en utilisant le framework Spring et XML et Instanciation statique (couplage fort):
 
-![image](https://user-images.githubusercontent.com/97621443/162347040-5fc6a743-4c58-4b98-b817-9e7ae4b7efe7.png)
-![image](https://user-images.githubusercontent.com/97621443/162347177-64e0ebfd-94c5-401d-9a67-e7868968930c.png)
-
-
 ![image](https://user-images.githubusercontent.com/97621443/162343770-d64b156c-6d1f-4950-a910-74ee7ae74b53.png)
 
 
@@ -52,6 +48,12 @@ Part 2: Mise en oeuvre de l'injection des dépendances: Injection des dépendanc
 
 
 ![image](https://user-images.githubusercontent.com/97621443/162344013-38bedb75-0c67-4cc8-9e5e-6508ec02f250.png)
+
+
+![image](https://user-images.githubusercontent.com/97621443/162347040-5fc6a743-4c58-4b98-b817-9e7ae4b7efe7.png)
+![image](https://user-images.githubusercontent.com/97621443/162347177-64e0ebfd-94c5-401d-9a67-e7868968930c.png)
+
+
 
 
 ![image](https://user-images.githubusercontent.com/97621443/162347615-02e9217a-6511-4d0d-a996-9418acd820b8.png)
