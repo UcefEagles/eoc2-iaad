@@ -75,11 +75,14 @@ Part 2: Mise en oeuvre de l'injection des dépendances: Injection des dépendanc
       6-2 / Test en cas d'erreur
 
 ![image](https://user-images.githubusercontent.com/97621443/162348156-d37836e5-aa94-48d6-8815-054bb17f2051.png)
-
+ 
+   7/ Maven Compile
 
 ![image](https://user-images.githubusercontent.com/97621443/162348382-ab377721-1319-4c28-b3cc-3f55af4c638c.png)
 
 
+   8/ Maven Test
+   
 ![image](https://user-images.githubusercontent.com/97621443/162348463-a4f1e950-737f-4f39-bc6e-5d40db8e2663.png)
 
 ![image](https://user-images.githubusercontent.com/97621443/162348700-a8fe3532-0077-445a-a3da-babb55ba2144.png)
