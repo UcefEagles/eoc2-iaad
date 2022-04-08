@@ -1,5 +1,10 @@
 # eoc2-iaad
-Part 2
+
+ Module:Systèmes Informatiques Distribuées et Middlewares.                                                              
+                                                                                               MASTER I2AD      
+                                                                                               
+
+Part 2: Mise en oeuvre de l'injection des dépendances: Injection des dépendances en utilisant le framework Spring et XML
 
 
 ![image](https://user-images.githubusercontent.com/97621443/162346436-fb0c2e84-efcd-483f-814b-c2d07df1212d.png)
