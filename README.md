@@ -60,13 +60,19 @@ Part 2: Mise en oeuvre de l'injection des dépendances: Injection des dépendanc
 ![image](https://user-images.githubusercontent.com/97621443/162347177-64e0ebfd-94c5-401d-9a67-e7868968930c.png)
 
 
+  6/ Class de test en Utilisant (JUNIT):
+
 
 
 ![image](https://user-images.githubusercontent.com/97621443/162347615-02e9217a-6511-4d0d-a996-9418acd820b8.png)
 
 
+       6-1 / Test en cas de succession
+
+
 ![image](https://user-images.githubusercontent.com/97621443/162348046-c92c3494-8e0c-4afb-8317-0569b42d4bf8.png)
 
+      6-2 / Test en cas d'erreur
 
 ![image](https://user-images.githubusercontent.com/97621443/162348156-d37836e5-aa94-48d6-8815-054bb17f2051.png)
 
