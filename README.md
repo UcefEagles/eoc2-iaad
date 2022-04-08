@@ -31,7 +31,7 @@ Part 2: Mise en oeuvre de l'injection des dépendances: Injection des dépendanc
 
 
 
-                          2-4/Package PRES (Class Pres2 et  Presentation)
+                          2-4/Package PRES (Class Pres2 ,Presentation ,PresSpringAnnotations et PresSpringXML)
 ![image](https://user-images.githubusercontent.com/97621443/162346830-ab9018eb-0937-42cd-9e1e-baec81a9916c.png)
 ![image](https://user-images.githubusercontent.com/97621443/162346868-07b85b2f-8443-4017-9340-c8e4ec75c6db.png)
 ![image](https://user-images.githubusercontent.com/97621443/162346926-bf6cadfa-4892-4ba2-8253-ba14f7d401c0.png)
