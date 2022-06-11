@@ -6,7 +6,7 @@
 
 Part 2: Mise en oeuvre de l'injection des dépendances: Injection des dépendances en utilisant le framework Spring et XML
 
-                  1/Structure du Projet (en Spring):
+                  1/Structure du Projet (en  Spring):
 
                   
 
@@ -24,14 +24,14 @@ Part 2: Mise en oeuvre de l'injection des dépendances: Injection des dépendanc
 ![image](https://user-images.githubusercontent.com/97621443/162346628-42552e2f-3eba-45eb-9980-b1ab4ee5ba3b.png)
 
 
-                          2-3/Package metier (Class Calcul , Metierimpl et Interface IMetier)
+                          2-3/ Package metier (Class Calcul , Metierimpl et Interface IMetier)
 ![image](https://user-images.githubusercontent.com/97621443/162346692-13c82658-8a26-4fce-8a15-d35a3c1991b2.png)
 ![image](https://user-images.githubusercontent.com/97621443/162346733-b43a2220-08fa-466a-bcf3-bb725e364307.png)
 ![image](https://user-images.githubusercontent.com/97621443/162346791-01ea24b6-e39b-4016-8c22-768f296873d2.png)
 
 
 
-                          2-4/Package PRES (Class Pres2 ,Presentation ,PresSpringAnnotations et PresSpringXML)
+                          2-4/ Package PRES (Class Pres2 ,Presentation ,PresSpringAnnotations et PresSpringXML)
 ![image](https://user-images.githubusercontent.com/97621443/162346830-ab9018eb-0937-42cd-9e1e-baec81a9916c.png)
 ![image](https://user-images.githubusercontent.com/97621443/162346868-07b85b2f-8443-4017-9340-c8e4ec75c6db.png)
 ![image](https://user-images.githubusercontent.com/97621443/162346926-bf6cadfa-4892-4ba2-8253-ba14f7d401c0.png)
